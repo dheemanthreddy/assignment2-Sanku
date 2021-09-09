@@ -21,4 +21,40 @@
 <a href=https://github.com/dheemanthreddy/assignment2-Sanku/blob/main/README.md>AboutMe</a>
 <hr> </hr>
 <h4>Creating Tables</h4>
-
+<table>
+  <tr>
+    <th>Food/Drinks</th>
+    <th>Location</th>
+    <th>Cost</th>
+  </tr>
+  <tr>
+    <td>Burgers</td>
+    <td>Biryani</td>
+    <td>CoolDrinks</td>
+  </tr>
+  <tr>
+    <td>wallmart</td>
+    <td>Indian Mart</td>
+    <td>Hyvee</td>
+  </tr>
+  <tr>
+    <td>$4</td>
+    <td>$7</td>
+    <td>$1</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+  </tr>
+  <tr>
+    <td>Laughing Bacchus Winecellars</td>
+    <td>Yoshi Tannamuri</td>
+    <td>Canada</td>
+  </tr>
+  <tr>
+    <td>Magazzini Alimentari Riuniti</td>
+    <td>Giovanni Rovelli</td>
+    <td>Italy</td>
+  </tr>
+</table>
