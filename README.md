@@ -18,4 +18,4 @@
 <li>Food</li>
 <li>Drinks</li>
 </ul>
-[link for AboutMe.md]("C:\Users\S545025\Documents\GitHub\assignment2-Sanku\AboutMe.md")
+<a href=https://github.com/dheemanthreddy/assignment2-Sanku/blob/main/README.md>AboutMe</a>
