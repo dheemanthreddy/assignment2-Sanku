@@ -19,8 +19,7 @@
 <li>Drinks</li>
 </ul>
 <a href=https://github.com/dheemanthreddy/assignment2-Sanku/blob/main/README.md>AboutMe</a>
-<hr> </hr>
-<h4>Creating Tables</h4>
+<hr></hr>
 <table>
   <tr>
     <th>Food/Drinks</th>
@@ -28,33 +27,18 @@
     <th>Cost</th>
   </tr>
   <tr>
-    <td>Burgers</td>
+    <td>Burger</td>
+    <td>Burger King</td>
+    <td>$5</td>
+  </tr>
+  <tr>
     <td>Biryani</td>
-    <td>CoolDrinks</td>
+    <td>Flavours</td>
+    <td>$12</td>
   </tr>
   <tr>
-    <td>wallmart</td>
-    <td>Indian Mart</td>
-    <td>Hyvee</td>
-  </tr>
-  <tr>
-    <td>$4</td>
-    <td>$7</td>
+    <td>Coke</td>
+    <td>Wallmart</td>
     <td>$1</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
   </tr>
 </table>
