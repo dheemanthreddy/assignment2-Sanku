@@ -3,7 +3,7 @@
 <p>Aside from the beautiful <b> beaches </b> and beautiful <b> mountains </b></p>
 <hr>  </hr>
 <h3>location to marryville</h3>
-<ul>
+<ol>
 <li>start form california through tulare</li>
 <li>take a slight left from bakersfield</li>
 <li>then drive straight to tehachapi</li>
@@ -13,4 +13,4 @@
 <li>again take right on rockpoint</li>
 <li>drive towards marryville</li>
 <li>we will reach our destination marryville</li>
-</ul>
+</ol>
