@@ -20,6 +20,7 @@
 </ul>
 <a href=https://github.com/dheemanthreddy/assignment2-Sanku/blob/main/README.md>AboutMe</a>
 <hr></hr>
+<h4>FOOD SECTION</h4>
 <table>
   <tr>
     <th>Food/Drinks</th>
