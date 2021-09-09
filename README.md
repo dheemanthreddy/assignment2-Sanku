@@ -19,28 +19,3 @@
 <li>Drinks</li>
 </ul>
 <a href=https://github.com/dheemanthreddy/assignment2-Sanku/blob/main/README.md>AboutMe</a>
-<hr></hr>
-<h4>FOOD SECTION</h4>
-<p>here comes the menu of the food</p>
-<table>
-  <tr>
-    <th>Food/Drinks</th>
-    <th>Location</th>
-    <th>Cost</th>
-  </tr>
-  <tr>
-    <td>Burger</td>
-    <td>Burger King</td>
-    <td>$5</td>
-  </tr>
-  <tr>
-    <td>Biryani</td>
-    <td>Flavours</td>
-    <td>$12</td>
-  </tr>
-  <tr>
-    <td>Coke</td>
-    <td>Wallmart</td>
-    <td>$1</td>
-  </tr>
-</table>
