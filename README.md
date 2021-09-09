@@ -3,4 +3,14 @@
 <p>Aside from the beautiful <b> beaches </b> and beautiful <b> mountains </b></p>
 <hr>  </hr>
 <h3>location to marryville</h3>
-<p> There are 9 ways to get from California to Northwest Missouri State University by plane, night bus, bus, train or car </p>
+<ul>
+<li>start form california through tulare</li>
+<li>take a slight left from bakersfield</li>
+<li>then drive straight to tehachapi</li>
+<li>take a slight right towards bekar</li>
+<li>take right towards denver</li>
+<li>drive straight towards nebraska</li>
+<li>again take right on rockpoint</li>
+<li>drive towards marryville</li>
+<li>we will reach our destination marryville</li>
+</ul>
